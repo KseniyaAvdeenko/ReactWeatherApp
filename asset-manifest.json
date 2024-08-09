@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactWeatherApp/static/css/main.2f99ea5d.css",
-    "main.js": "/ReactWeatherApp/static/js/main.4d1f56b3.js",
+    "main.css": "/ReactWeatherApp/static/css/main.cb3f2e37.css",
+    "main.js": "/ReactWeatherApp/static/js/main.258c0856.js",
     "static/media/new moon.png": "/ReactWeatherApp/static/media/new moon.ed92844d9b218a690d64.png",
     "static/media/full moon.png": "/ReactWeatherApp/static/media/full moon.ee8b2e0282d24fc4d4c6.png",
     "static/media/waxing gibbous.png": "/ReactWeatherApp/static/media/waxing gibbous.8f8ff4c0a82ba295572f.png",
@@ -25,11 +25,11 @@
     "static/media/pressure.svg": "/ReactWeatherApp/static/media/pressure.9db3faab03ba7236ace9e12ee1aa85de.svg",
     "index.html": "/ReactWeatherApp/index.html",
     "static/media/wind_direction.svg": "/ReactWeatherApp/static/media/wind_direction.5c7689f39732fded5054818e2a7e2d3f.svg",
-    "main.2f99ea5d.css.map": "/ReactWeatherApp/static/css/main.2f99ea5d.css.map",
-    "main.4d1f56b3.js.map": "/ReactWeatherApp/static/js/main.4d1f56b3.js.map"
+    "main.cb3f2e37.css.map": "/ReactWeatherApp/static/css/main.cb3f2e37.css.map",
+    "main.258c0856.js.map": "/ReactWeatherApp/static/js/main.258c0856.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f99ea5d.css",
-    "static/js/main.4d1f56b3.js"
+    "static/css/main.cb3f2e37.css",
+    "static/js/main.258c0856.js"
   ]
 }
